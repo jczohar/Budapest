@@ -1,0 +1,37 @@
+{
+ "id": "./",
+ "name": "בודפשט, הונגריה – מידע למטייל",
+ "short_name": "בודפשט",
+ "description": "מדריך מטייל לבודפשט – מפה, אתרים, מלונות, תחבורה, מסעדות, מסלולים ועוד",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "dir": "rtl",
+ "lang": "he",
+ "background_color": "#f4f1ea",
+ "theme_color": "#c8102e",
+ "launch_handler": {
+  "client_mode": "focus-existing"
+ },
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
